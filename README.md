@@ -33,7 +33,7 @@
 
 ## 🛠️ Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,java,aws,linux,bash,docker,git,python,figma,vscode,azure,nginx,postman,redis" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,java,c,cpp,aws,linux,bash,docker,git,python,figma,vscode,azure,nginx,postman,redis" />
 </p>
 
 ---
